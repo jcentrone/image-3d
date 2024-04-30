@@ -1,4 +1,4 @@
-/Models/diffusion_pytorch_model.bin
-/Models/instant_mesh_large.ckpt
-/Models/instant_nerf_large.ckpt
-/Models/python-3.12.3-amd64.exe
+/server/Models/diffusion_pytorch_model.bin
+/server/Models/instant_mesh_large.ckpt
+/server/Models/instant_nerf_large.ckpt
+/server/Models/python-3.12.3-amd64.exe

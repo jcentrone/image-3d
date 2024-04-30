@@ -14,7 +14,7 @@
     <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
     <option name="TEMPLATE_FOLDERS">
       <list>
-        <option value="$MODULE_DIR$/../image-3d\templates" />
+        <option value="$MODULE_DIR$/client/templates" />
       </list>
     </option>
   </component>
